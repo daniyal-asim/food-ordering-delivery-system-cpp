@@ -1,0 +1,4 @@
+username,name,password,role
+admin,Admin User,admin,admin
+delivery,Delivery Boy,delivery,delivery
+kitchen,kitchen,kitchen,kitchen
