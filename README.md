@@ -30,6 +30,8 @@ A console-based food ordering and delivery management system built in C++ with r
 ## Project Structure
 
 ```
+├── docs/
+│   └── Food_Ordering_System_Documentation.pdf
 ├── main.cpp
 ├── data/
 │   ├── admin_users.txt
@@ -50,8 +52,9 @@ A console-based food ordering and delivery management system built in C++ with r
     ├── Order.cpp
     ├── User.cpp
     └── Utils.cpp
-```
 
+```
+Documentation: Detailed project documentation with screenshots is available in the docs/ folder.
 ---
 
 ## DSA Concepts
