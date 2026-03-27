@@ -1,0 +1,11 @@
+itemID,name,price,category,available
+1,Chicken Burger,1111,meal,1
+2,Zinger Burger,300,meal,0
+3,Beef Burger,280,meal,1
+4,Fries (Regular),100,snack,1
+5,Fries (Large),150,snack,1
+6,Samosa,20,snack,1
+7,Roll,80,snack,1
+8,Cold Drink,50,drink,1
+9,Tea,30,drink,1
+10,Coffee,60,drink,1
