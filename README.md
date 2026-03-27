@@ -1,6 +1,3 @@
-# food-ordering-delivery-system-cpp
-
-
 # Raju Food Ordering & Delivery Management System
 
 A console-based food ordering and delivery management system built in C++ with role-based access control, real-time order tracking, and a graph-based campus routing system.
